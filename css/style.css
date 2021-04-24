@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(234, 238, 230);
+    font-family: 'Montserrat', sans-serif;
+    height: 343px;
+}
+
+.banner {
+  background-image: url(../img/lemon-pie2.jpg);
+  background-size: cover;
+  color: white;
+}
+
+.banner-text {
+  text-align: left;
+  font-size: 20px;
+}
+
+.titulo {
+  font-weight: bold;
+  text-align: left;
+}
+
+
+h3 {
+    font-style: italic;
+}
+
+ol,
+ul {
+  line-height: 25px;
+  text-align: justify;
+}
+
+.merengueItaliano {
+  color: rgb(199, 159, 29);
+  text-decoration: underline;
+}
